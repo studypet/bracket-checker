@@ -1,6 +1,7 @@
 {
   "name": "studypet/bracket-checker",
   "description": "Checking brackets library",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
