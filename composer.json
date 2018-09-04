@@ -1,11 +1,11 @@
 {
-  "name": "zanin/bracket_checker",
+  "name": "studypet/bracket-checker",
   "description": "Checking brackets library",
   "license": "MIT",
   "authors": [
     {
       "name": "Yuri Zanin",
-      "email": "zaniny@yandex.ru"
+      "email": "studypet@yandex.ru"
     }
   ],
   "require": {
