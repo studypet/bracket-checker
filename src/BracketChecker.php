@@ -1,6 +1,6 @@
 <?php
 
-namespace Zanin\Tools {
+namespace Studypet\Tools {
 
     class BracketChecker
     {
